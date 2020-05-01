@@ -1,5 +1,5 @@
 #Darshan Mistry...
-#character and number data auto finder....
+#character and number data auto finder..
 
 user_name = "darshan"
 user_surname = "mistry"
