@@ -1,6 +1,9 @@
-A=int(input("Enter number:"))
+#Darshan mistry..
+#Number of digit finder....
+
+A=int(input("Please enter the number:"))
 count=0
 while(n>0):
-    count=count+1
+    digit=digit+1
     n=n//10
-print("The number of digits in the number are:",count)
+print("The total number of digits are:",digit)
