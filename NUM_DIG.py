@@ -1,5 +1,5 @@
 #Darshan mistry..
-#Number of digit finder..
+#Number of Digit Finder..
 
 A=int(input("Please enter the number:"))
 count=0
