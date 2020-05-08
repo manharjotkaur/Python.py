@@ -8,4 +8,4 @@ while(n>0):
     digit=digit+1
     n=n//10
     
-print("The total number of digits are:",digit) #digit work as a function.... 
+print("The total number of digits are:",digit) 
