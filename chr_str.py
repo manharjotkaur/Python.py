@@ -2,7 +2,7 @@
 #character and number data auto finder...
 
 user_name = "Darshan"
-user_surname = "Mistry"
+user_surname = "Mistry."
 mail = "gmail"
 age = 24
 name = user_name +" " + user_surname
