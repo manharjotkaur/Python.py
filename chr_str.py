@@ -1,7 +1,7 @@
 #Darshan Mistry...
 #character and number data auto finder...
 
-user_name = "darshan"
+user_name = "Darshan"
 user_surname = "mistry"
 mail = "gmail"
 age = 24
