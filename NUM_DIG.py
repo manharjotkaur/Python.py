@@ -1,7 +1,7 @@
 #Darshan mistry.
 #Number of Digit Finder.
 
-A=int(input("Please enter the number:"))
+A=int(input("Please enter the number...:"))
 
 count=0
 while(n>0):
