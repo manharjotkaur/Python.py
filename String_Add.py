@@ -1,6 +1,6 @@
 
-#Darshan mistry...
-#python co@ding.
+#Darshan mistry..
+#python co@ding...
 
 name="Darshan" #string created.
 surname="Mistry" #str_2
